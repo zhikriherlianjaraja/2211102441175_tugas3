@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Life
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ life\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=initialLives
+comment1.target=Life(int)
+comment2.params=
+comment2.target=void\ decreaseLives()
+comment3.params=
+comment3.target=int\ getLives()
+comment4.params=
+comment4.target=void\ updateCount()
+comment5.params=
+comment5.target=void\ act()
+numComments=6
